@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GowiseDemo</string>
+    <string name="gowise_webview">Gowise Webview</string>
+</resources>
